@@ -1,0 +1,10 @@
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Task14\NorthwindLibrary\obj\Debug\NorthwindLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Task14\NorthwindLibrary\bin\Debug\NorthwindLibrary.dll.config
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Task14\NorthwindLibrary\bin\Debug\NorthwindLibrary.dll
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Task14\NorthwindLibrary\bin\Debug\NorthwindLibrary.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Task14\NorthwindLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Task14\NorthwindLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Task14\NorthwindLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Task14\NorthwindLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Task14\NorthwindLibrary\obj\Debug\NorthwindLibrary.dll
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Task14\NorthwindLibrary\obj\Debug\NorthwindLibrary.pdb
